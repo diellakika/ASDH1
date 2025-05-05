@@ -1,16 +1,26 @@
-# 🧠 Algorithms & Data Structures – Project
+# 📘 Project: Algorithms and Data Structures
 
-This repository contains a collection of solved problems from **LeetCode**, categorized by difficulty: **Easy**, **Medium**, and **Hard**. The purpose of this project was to practice and strengthen concepts learned during the *Algorithms and Data Structures* course.
+This repository contains a collection of selected LeetCode problems solved in **C++**, organized by difficulty: **Easy**, **Medium**, and **Hard**. The project was developed as part of the university course **Algorithms and Data Structures**.
 
-## 📚 Course Context
+## 🎯 Purpose of the Project
 
-This project was developed as part of the *Algorithms and Data Structures* course, where students were encouraged to solve algorithmic challenges regularly to:
+The main goal of this project was to strengthen algorithmic thinking and gain a solid understanding of fundamental data structures through practical problem-solving.
 
-- Improve problem-solving skills.
-- Deepen understanding of time and space complexity.
-- Practice classic data structures like arrays, linked lists, trees, stacks, queues, heaps, graphs, and more.
+Key objectives include:
 
-## 📁 Structure
+- Time and space complexity analysis
+- Implementation and usage of core data structures:
+  - Arrays, Linked Lists, Stacks, Queues
+  - Trees, Graphs, Hash Tables
+- Mastery of techniques such as:
+  - Recursion and Backtracking
+  - Dynamic Programming
+  - Searching and Sorting
+  - Two Pointers, Sliding Window
+  - Depth-First and Breadth-First Search (DFS & BFS)
 
-The repository is organized into folders based on the difficulty level of the problems:
+
+
+
+
 
